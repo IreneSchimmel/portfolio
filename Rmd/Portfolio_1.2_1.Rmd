@@ -1,0 +1,20 @@
+---
+title: "Portfolio assignment 1.2, part 1"
+author: "Irene Schimmel"
+date: "12-4-2021"
+output: html_document
+---
+
+###### D. Tocilizumab in Patients Hospitalized with Covid-19 Pneumonia (Salama et al., 2020)
+
+###### E. 
+###### Study Purpose: yes
+###### Data Availability Statement: yes
+###### Data Location: Supplementary appendix
+###### Study Location: yes, Supplementary appendix
+###### Author Review: Good, author information
+###### Ethics Statement: yes
+###### Funding Statement: yes
+###### Code Availability: no
+
+###### F.
