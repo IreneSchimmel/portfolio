@@ -1,0 +1,6 @@
+---
+title: "Portfolio assignment 6.2"
+author: "Irene Schimmel"
+date: "30-05-2021"
+output: html_document
+---

@@ -2,7 +2,9 @@
 title: "Portfolio assignment 1.2, part 2"
 author: "Irene Schimmel"
 date: "12-4-2021"
-output: html_document
+output: 
+  html_document:
+    code_folding: "hide"
 ---
 ##### H., I. Mental Health Impacts in Argentinean College Students During COVID-19 Quarantine https://osf.io/t523v/
 

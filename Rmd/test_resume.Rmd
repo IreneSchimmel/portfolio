@@ -1,0 +1,53 @@
+---
+title: "Someone's resume"
+author: Your Name
+output: pagedown::html_resume
+---
+
+
+Aside
+====================================
+
+Picture, etc.
+
+Contact info
+------------------------------------
+
+Email, phone number, ...
+
+Skills
+------------------------------------
+
+- One
+- Two
+- Three
+
+Disclaimer
+------------------------------------
+A footer in the sidebar.
+
+
+Main
+====================================
+
+Your Name {#title}
+------------------------------------
+
+Arbitrary content.
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### University One
+
+Title
+
+Location
+
+Year
+
+Arbitrary content
+
+### University Two
+
+...
