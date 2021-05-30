@@ -5,16 +5,27 @@ date: "12-4-2021"
 output: html_document
 ---
 
-###### D. Tocilizumab in Patients Hospitalized with Covid-19 Pneumonia (Salama et al., 2020)
+#### Tocilizumab in Patients Hospitalized with Covid-19 Pneumonia (Salama et al., 2020)
+***
+#
+This study is on the effect of the anti-interleukin-6 receptor antibody tocilizumab in, namely racial and ethnic minority, patients with COVID-19 pneumonia.
 
-###### E. 
-###### Study Purpose: yes
-###### Data Availability Statement: yes
-###### Data Location: Supplementary appendix
-###### Study Location: yes, Supplementary appendix
-###### Author Review: Good, author information
-###### Ethics Statement: yes
-###### Funding Statement: yes
-###### Code Availability: no
+A total of 389 patients, who were not receiving mechanical ventilation, were randomly assigned either one or two doses of tocilizumab or placebo in a 2:1 ratio.
 
-###### F.
+Overall, the tocilizumab reduced the likelihood of progression towards either mechanical ventilation or death, but did not improve survival.
+
+#
+***
+
+###### Table 1; the transparency criteria.
+|Transparency Criteria| Response|
+|-------------|------|
+|Study Purpose| Yes|
+|Data Availability Statement| Yes|
+|Data Location| Supplementary appendix|
+|Study Location| Yes, Supplementary appendix|
+|Author Review| Good, author information|
+|Ethics Statement| Yes|
+|Funding Statement| Yes|
+|Code Availability| No|
+
