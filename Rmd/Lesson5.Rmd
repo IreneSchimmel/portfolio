@@ -1,0 +1,98 @@
+---
+title: "Lesson5"
+author: "Irene Schimmel"
+date: "Sys.date()"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r figdiam, echo=FALSE, fig.height = 5, fig.width = 5, fig.align = "center", fig.cap = "Cut and price of diamonds"}
+library(viridis)
+library(ggplot2)
+library(ggridges)
+library(ggthemes)
+ggplot(data = diamonds, 
+       aes(x = price, y = cut, color = cut, fill = cut)) +
+  geom_density_ridges(alpha = 0.8, scale = 5) +
+  scale_fill_viridis(option = "A", discrete = TRUE) +
+  scale_color_viridis(option = "A", discrete = TRUE) + 
+  theme_few()
+```
+
+```{r table}
+library(DT)
+data("mpg")
+DT::datatable(mpg)
+```
+
+```{r extratable}
+library(kableExtra)
+data_for_table <- mtcars[1:5, 1:6]
+
+data_for_table %>%
+  kbl() %>%
+  kable_styling()
+
+kbl(data_for_table) %>%
+  kable_styling(bootstrap_options = "striped",
+                full_width = F,
+                position = "left")
+
+data_for_table %>%
+  kbl() %>%
+  kable_classic_2(full_width = F) %>%
+  row_spec(0, angle = -45) %>%
+  column_spec(2, color = spec_color(mtcars$mpg[1:5]),
+              link = "https://www.wikipedia.com") %>%
+  column_spec(5, color = "white",
+              background = spec_color(mtcars$hp[1:5], end = 0.7),
+              popover = paste("am:", mtcars$am[1:5]))
+
+kbl(data_for_table) %>%
+  kable_classic() %>%
+  add_header_above(c(" " = 1, "Group 1" = 2, "Group 2" = 2, "Group 3" = 2)) %>%
+  footnote(general = "Here is a general footnote for the table.")
+```
+
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
+
+\begin{equation}
+\label{eq-abc}
+ \binom{n}{k} = \frac{n!}{k!(n-k)!}
+\end{equation}
+
+\footnotesize
+tiny text! not tiny in html.
+\normalsize
+
+some text
+<br><br><br>
+some more text
+
+<mark> XXX more html here </mark>
+
+---
+
+[click here](https://en.wikipedia.org/wiki/Open_science)
+
+```{r class.source="bg-danger", class.output="bg-warning"}
+mtcars[1:5, "mpg"]
+```
+```{css, echo = FALSE}
+.watch-out {
+  background-color: lightpink;
+  border: 3px solid red;
+  font-weight: bold;
+}
+```
+```{r class.source = "watch-out"}
+mtcars[1:5, "mpg"]
+```
+

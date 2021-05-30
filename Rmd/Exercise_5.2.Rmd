@@ -1,0 +1,53 @@
+---
+title: "Portal characters"
+author: "Irene Schimmel"
+output: html_document
+---
+
+![test1](here::here("images", "portal_chell.jpg")) ![test2](here::here("images", "portal_glados.jpg"))
+
+
+``` {r Chell, out.width = "200px", fig.cap="'Chell'; the main character", echo = FALSE}
+knitr::include_graphics(
+  here::here(
+    "images",
+    "portal_chell.jpg"
+  )
+)
+```
+
+``` {r GLaDOS, out.width = "200px", fig.cap="'GLaDOS'; the central core, designed to control and oversee Aperture Science", echo = FALSE}
+knitr::include_graphics(
+  here::here(
+    "images",
+    "portal_glados.jpg"
+  )
+)
+```
+
+``` {r Wheatley, out.width = "200px", fig.cap="'Wheatley'; the Intelligence Dampening Sphere", echo = FALSE}
+knitr::include_graphics(
+  here::here(
+    "images",
+    "portal_wheatley.jpg"
+  )
+)
+```
+
+``` {r Turret, out.width = "200px", fig.cap="'Turret'; the bullet machines", echo = FALSE}
+knitr::include_graphics(
+  here::here(
+    "images",
+    "portal_turret.jpg"
+  )
+)
+```
+
+``` {r space core, out.width = "150px", fig.cap="'Space Core'; the Space Core", echo = FALSE}
+knitr::include_graphics(
+  here::here(
+    "images",
+    "portal_space_core.jpg"
+  )
+)
+```
