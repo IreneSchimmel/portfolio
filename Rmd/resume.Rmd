@@ -35,10 +35,10 @@ Creative
 
 Languages
 --------------------------------------------
-* Dutch
-###### Native
-* English
-###### Fluent, C1
+Dutch  
+*Native*  
+English  
+*Fluent, C1*  
 
 Main
 =============================================

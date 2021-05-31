@@ -20,7 +20,7 @@ library(ggplot2)
 ###### B., C. 
 ###### For RawData and compConcentration, the expected data type is numeric. For compName, the expected data type is character.
 ``` {r importing and inspecting file}
-CE.LIQ.FLOW.062 <- read_excel("CE.LIQ.FLOW.062_Tidydata.xlsx") ##importing file
+CE.LIQ.FLOW.062 <- read_excel(here::here("data/CE.LIQ.FLOW.062_Tidydata.xlsx")) ##importing file
 inspect_columns <- CE.LIQ.FLOW.062 %>% dplyr::select(RawData, compName, compConcentration) ##selecting the columns
 skimr::skim(inspect_columns) ##printing overview of the selected columns
 
