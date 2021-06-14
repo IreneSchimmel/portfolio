@@ -3,12 +3,52 @@ My Data Science Adventure
 =======================================================
 author: Irene Schimmel
 autosize: true
-font-family: 'Arial'
+font-family: 'arial'
 
-<br><br><br><br>
+<br><br><br><br><br>
 ![University Utrecht](https://www.uu.nl/masters/sites/all/themes/uubasetheme/images/logo-en.svg)
 ![python](https://www.python.org/static/img/python-logo.png)
-***
-<br><br><br>
-![background](https://www.uu.nl/masters/sites/default/files/styles/image_385x257/public/images/master-applied-data-science.jpg?itok=3TBbE9zI&timestamp=1621499606)
 
+***
+
+<br><br><br>
+<small>[Applied Data Science](https://www.uu.nl/masters/en/applied-data-science)
+- 1 year master
+- R and Python
+- Data-analysis
+- Statistics
+</small>
+
+The Python Journey
+=====================================================
+
+<br>
+Day 1 and 2:
+- [BeginnersGuide](https://wiki.python.org/moin/BeginnersGuide/Programmers).
+
+![image](https://www.uu.nl/masters/sites/default/files/styles/image_385x257/public/images/master-applied-data-science.jpg?itok=3TBbE9zI&timestamp=1621499606)
+
+***
+
+<br>
+Day 3:
+- [The pandas tutorial](https://towardsdatascience.com/a-beginners-guide-to-data-analysis-in-python-188706df5447)
+
+Day 4:
+- [This statistics and data wrangling tutorial](https://realpython.com/python-statistics/)
+
+My Summer project - Shiny (?)
+====================================================
+
+<br>
+![Ladies Night logo](https://scontent.fams2-2.fna.fbcdn.net/v/t1.18169-9/10891891_933428546669650_7585239637319673731_n.png?_nc_cat=105&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vBmPnc7qbe4AX-mSq7A&_nc_ht=scontent.fams2-2.fna&oh=8606aeb98c1bea6a3bd49d8c4ab5e0fe&oe=60DAB496)
+
+***
+
+<br><br>
+**What sex toy suits you?**
+
+Based on input such as:
+- Power
+- Noise
+- Preferred colour
