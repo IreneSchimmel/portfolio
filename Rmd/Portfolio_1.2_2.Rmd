@@ -1,26 +1,24 @@
 ---
-title: "Portfolio assignment 1.2, part 2"
-author: "Irene Schimmel"
-date: "12-4-2021"
 output: 
   html_document:
     code_folding: "hide"
 ---
-##### H., I. Mental Health Impacts in Argentinean College Students During COVID-19 Quarantine https://osf.io/t523v/
+# Mental Health Impacts in Argentinean College Students During COVID-19 Quarantine 
+[Data and original code can be found here](https://osf.io/t523v/)
 
-##### J. The code mainly makes tables from the data and then runs several statistical analyses.
+The code mainly makes tables from the data and then runs several statistical analyses.
 
-##### K. The code is very well readeable (4).
+The code is very well readable (4/5 score).
 
-##### N. Line 11 asked for "clipboard" as input, but this didn't work. I fixed it by using the readxl library and importing dataset with that. 
-##### All lines where a column name uses "." in between words need to be replaced with the column name with spaces.
-##### The original code was put in lines: 13, 61, 64, 69, 72, 116, 135, 143, 144, 149
-##### The first 150 lines were fixed.
+Line 11 asked for "clipboard" as input, but this didn't work. I fixed it by using the readxl library and importing dataset with that. 
+All lines where a column name uses "." in between words need to be replaced with the column name with spaces.
+The original code was put in lines: 13, 61, 64, 69, 72, 116, 135, 143, 144, 149
+The first 150 lines were fixed.
 
-##### O. Despite needing to change some of the code, the reproduction of a figure was rather easy (4).
+Despite needing to change some of the code, the reproduction of a figure was rather easy (4/5 score).
 
-##### P. 
-###### Table 1; the transparency criteria.
+Table 1; the transparency criteria.
+
 |Transparency Criteria| Response|
 |-------------|------|
 |Study Purpose| Yes|

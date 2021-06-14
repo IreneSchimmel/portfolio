@@ -18,8 +18,8 @@ Date of birth:
 Mobile phone:	
 +31 680138647
 
-LinkedIn:
-https://www.linkedin.com/in/ireneschimmel/
+[LinkedIn](https://www.linkedin.com/in/ireneschimmel/)
+
 
 Skills
 --------------------------------------------
@@ -43,5 +43,107 @@ English
 Main
 =============================================
 
-Irene Schimmel {#title}
+Resume {#title}
 ---------------------------------------------
+Education {data-icon=school}
+------------------------------------
+
+### Utrecht University of Applied Sciences
+
+Life Sciences
+
+Utrecht
+
+2017 - present
+
+Specialisation: Microbiology
+</br>
+Minor: Data Science
+</br>
+Expected to graduate in summer 2022
+
+
+Diplomas {data-icon=graduation-cap}
+--------------------------------------
+
+### H.A.V.O
+
+Zaanlands Lyceum
+
+Zaandam
+
+2016
+
+### C.A.E.
+
+Cambridge Advanced English
+
+N/A
+
+2016
+
+### Basic Bookkeeping
+
+N/A
+
+N/A
+
+2016
+
+
+Other {data-icon=certificate}
+-----------------------------
+
+### Honours star: Moxie
+
+Utrecht University of Applied Sciences
+
+Utrecht
+
+2018
+
+
+Work experience {data-icon=briefcase}
+---------------------------------------
+
+### Ladies Night Homeparties
+
+Consultant
+
+N/A
+
+2020 - present
+
+### V.V.S. Uranymus
+
+Algemeen-bestuurslid
+
+Utrecht
+
+2019-2020
+
+Board member for education and cafe
+
+### Utrecht University of Applied Sciences
+
+Organizer Career day and Company open day
+
+Utrecht
+
+2019-2020
+
+### Utrecht University of Applied Sciences
+
+President Participation committee
+
+Utrecht
+
+2018-2020
+
+### Stichting Het7de
+
+Traesurer
+
+Utrecht
+
+2018-2019
